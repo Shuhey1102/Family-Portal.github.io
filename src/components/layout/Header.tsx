@@ -8,18 +8,18 @@ export default function Header() {
     <header>
     <div  className="home-container">
       <a href="/">
-        <input className="header-icon"  type="image" src={HomeIcon} alt="家のマーク" />
+        <input className="menu-icon"  type="image" src={HomeIcon} alt="家のマーク" />
       </a>
     </div>
       <h1>My Home Portal</h1>
     <div className="alert-container">
       <a href="/">
-        <input className="header-icon" type="image" src={AlertIcon} alt="通知のマーク" />
+        <input className="menu-icon" type="image" src={AlertIcon} alt="通知のマーク" />
       </a>
     </div>
     <div className="user-container">
       <a href="/">
-        <input id="user-icon" className="header-icon"  type="image" src={UserIcon} alt="ユーザーのマーク" />
+        <input id="user-icon" className="menu-icon"  type="image" src={UserIcon} alt="ユーザーのマーク" />
       </a>
     </div>
     </header>
