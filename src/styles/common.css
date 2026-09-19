@@ -1,0 +1,40 @@
+header{
+
+    display: flex;
+    align-items: center;
+    gap: 1rem;    
+    background-color: #ffffff;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 0.75rem;    
+}
+header h1 {
+  margin: 0;
+}
+header img{
+  height: 1em;
+  width: auto;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Meiryo, Arial, sans-serif;
+  background-color: #f0fdf0;
+}
+.home-container {
+  margin-right: 1rem;
+}
+.alert-container {
+  margin-left: auto;
+}
+
+.header-icon{
+  height: 2em;
+  width: auto;
+}
+#user-icon{
+  border-radius: 50%;
+  object-fit: cover;    
+  padding: 0.3em;
+  border: 0.1px solid #eee;
+}
