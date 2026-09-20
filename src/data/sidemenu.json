@@ -1,0 +1,131 @@
+[  
+  {
+    "label": "カレンダー",
+    "icon": "/icons/Callender.png",
+    "path": "/calendar",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 3
+    },
+    "maxWidth": 600,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "買い物リスト",
+    "icon": "/icons/Shopping.png",
+    "path": "/shopping",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 4
+    },
+    "maxWidth": 800,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "ペット",
+    "icon": "/icons/Animal.png",
+    "path": "/pet",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 3
+    },
+    "maxWidth": 400,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "お金関連",
+    "icon": "/icons/Finance.png",
+    "path": "/finance",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 6
+    },
+    "maxWidth": 800,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "ゴミの日",
+    "icon": "/icons/Garbage.png",
+    "path": "/garbage",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 5
+    },
+    "maxWidth": 400,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "お知らせ",
+    "icon": "/icons/Alert.png",
+    "path": "/notice",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 4
+    },
+    "maxWidth": 600,
+    "onSidebar": true,
+    "isCard": true
+  },
+  {
+    "label": "天気",
+    "icon": "/icons/Weather.png",
+    "path": "/weather",
+    "messageAll": "",
+    "gridSize": {
+      "xs": 12,
+      "md": 4
+    },
+    "maxWidth": 800,
+    "onSidebar": false,
+    "isCard": true
+  },
+  {
+    "label": "セール情報",
+    "icon": "/icons/Sales.png",
+    "path": "/sales",
+    "messageAll": "",
+    "gridSize": {
+      "xs": 12,
+      "md": 8
+    },
+    "maxWidth": 1500,
+    "onSidebar": false,
+    "isCard": true
+  },
+  {
+    "label": "ユーザ管理",
+    "icon": "/icons/User.png",
+    "path": "/Users",
+    "messageAll": "",
+    "gridSize": {
+      "xs": 12,
+      "md": 6
+    },
+    "onSidebar": true,
+    "isCard": false
+  },
+  {
+    "label": "設定",
+    "icon": "/icons/Setting.png",
+    "path": "/settings",
+    "messageAll": "詳細を表示 ＞",
+    "gridSize": {
+      "xs": 12,
+      "md": 8
+    },
+    "maxWidth": 400,
+    "onSidebar": true,
+    "isCard": false
+  }
+]

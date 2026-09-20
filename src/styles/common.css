@@ -59,7 +59,7 @@ aside{
     background-color: #ffffff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     font-size: 0.75rem;    
-    width: 12rem;
+    width: 15rem;
     align-self: stretch;
     align-items: flex-start;
     flex-direction: column;
@@ -85,6 +85,29 @@ aside{
   background-color: #e8f5e8;
   transition: background-color 0.2s ease;
 }
+
+/* カード情報 */
+.card-item{
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  font-size: 1.0rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right: auto;
+  padding-left: auto;
+  padding-left: 1rem;
+  width: 100%;  
+  text-decoration: none;
+  color: inherit;
+}
+.card-item a{
+  text-decoration: none;
+  margin-left: auto;
+  margin-right: 0.1rem;
+}
+
 /* モバイル対応 */
 @media (max-width: 768px) {
   aside {
